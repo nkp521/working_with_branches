@@ -2,9 +2,9 @@
 
 ## Books
 
-- Composing Programs (Chapter 1-2) [Free]
+- [Composing Programs (Chapter 1-2)](https://composingprograms.com/) [Free]
   - This is a great book for learning compsci concepts in addition to Python
-- Automate the Boring Stuff with Python [Free]
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [Free]
   - Has short, easy projects that involve different modules
-- Python Crash Course , 2nd Ed
-  - Beginner friendly intro to fundamental concepts 
+- [Python Crash Course , 2nd Ed](https://nostarch.com/pythoncrashcourse2e)
+  - Beginner friendly intro to fundamental concepts
