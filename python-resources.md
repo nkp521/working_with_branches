@@ -11,5 +11,11 @@
 
 ### Intermediate
 
+- [Serious Python](https://serious-python.com/)
+  - Does a great job of explaining some of the more difficult topics not covered
+    in depth in the beginner books
 
 ### Advanced
+
+- [Fluent Python, 2nd Edition](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348)
+  - The best reference book for Python
